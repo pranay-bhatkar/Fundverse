@@ -21,7 +21,7 @@
 **Thirdweb** is a tool for creating, deploying, and managing dApps on the Ethereum blockchain and **hardhat** is a development environment for Ethereum smart contract development.
 
 
-## Challenges faced While Building this project:
+## Challenges faced While Building this project: 
 
 Though there were many but some of the major challenges we faced while building this crowdfunding DApp are:
 - Migrating from Goerli testnet to Sepolia testnet
@@ -34,7 +34,7 @@ To Install and run this Blockchain based crowdfunding platform locally, one must
 
 **Clone the repository:**
 
-         https://github.com/thekiranmahajan/FundVerse.git
+        https://github.com/pranay-bhatkar/Fundverse.git
 
 **Navigate to the web3 repository:**
 
@@ -75,6 +75,3 @@ To use this DApp user must have an extension called [Metamask](https://metamask.
 https://github.com/adrianhajdin/project_crowdfunding
 
 ## Contributor:
-
-1.	https://github.com/thekiranmahajan
-2.	https://github.com/thesakshijaiswal
